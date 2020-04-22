@@ -1,0 +1,12 @@
+{
+  "name": "TUGA",
+  "version": "1.0.0",
+  "description": "Bot Discord.js",
+  "main": "main.js",
+  "repository": "https://github.com/TUGA-bot/tugabot.git",
+  "author": "TUGA <camilieri@outlook.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
